@@ -151,7 +151,7 @@ const ALLOWED_FORMATS = new Set([
   'CSV', 'TSV', 'JSON', 'JSONEachRow', 'JSONCompact', 'JSONCompactEachRow',
   'JSONEachRowWithNames', 'JSONEachRowWithNamesAndTypes', 'JSONStrings',
   'JSONCompactStrings', 'JSONObjectEachRow', 'Values', 'Vertical', 'XML',
-  'Parquet', 'Arrow', 'ArrowStream', 'Native', 'RowBinary', 'RowBinaryWithNames',
+  'Arrow', 'ArrowStream', 'Native', 'RowBinary', 'RowBinaryWithNames',
   'RowBinaryWithNamesAndTypes', 'CapnProto', 'LineAsString', 'RawBLOB', 'MsgPack'
 ]);
 
